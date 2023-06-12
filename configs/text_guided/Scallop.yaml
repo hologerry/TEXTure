@@ -1,0 +1,8 @@
+log:
+  exp_name: scallop
+guide:
+  text: "A photo of scallop, high quality, {} view"
+  append_direction: True
+  shape_path: shapes/Scallop.obj
+optim:
+  seed: 3
